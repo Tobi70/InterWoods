@@ -1,0 +1,13 @@
+{
+  "moulds": [{
+    "name": "WM 356",
+    "dimensions": "11/16 in x 2-1/4 in.x 96in.",
+    "discription":  "Finger-Joint Poplar Casing"
+  },
+    {
+      "name": "WM 390",
+      "dimensions": "9/16 in. x 2-5/8 in. x 96 in.",
+      "discription":  "Primed Medium Density Fiberboard Chair Rail"
+    }]
+
+}
